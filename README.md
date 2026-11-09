@@ -34,23 +34,6 @@
 
 ## 🧑‍💻 Sobre mim
 
-```java
-public class IgorSouza {
-    String curso = "Engenharia de Software";
-    String foco = "Desenvolvimento Back-End";
-    String linguagemPrincipalDeEstudo = "Java";
-
-    String[] interesses = {
-        "Desenvolvimento de APIs",
-        "Bancos de dados",
-        "Lógica de programação",
-        "Desenvolvimento de software"
-    };
-
-    String objetivo = "Conquistar minha primeira oportunidade em tecnologia";
-}
-```
-
 Sou estudante de **Engenharia de Software** e tenho interesse em construir soluções por meio da programação. Atualmente, direciono meus estudos para o **desenvolvimento Back-End**, com foco em Java, APIs e bancos de dados.
 
 Estou em busca da minha primeira oportunidade profissional na área de tecnologia. Gosto de aprender na prática, desenvolver projetos e transformar conhecimentos em soluções funcionais.
